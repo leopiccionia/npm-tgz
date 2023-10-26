@@ -1,0 +1,22 @@
+{
+  "name": "npm-tgz",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ofetch": "^1.3.3",
+    "ohmyfetch": "^0.4.21",
+    "timeago.js": "^4.0.2",
+    "vue": "^3.3.7",
+    "vue-multiselect": "3.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.5.0"
+  }
+}
